@@ -1,0 +1,19 @@
+{
+  "name": "html-webpack-chunk-prefix-plugin",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sunyongjian/html-webpack-chunk-prefix.git"
+  },
+  "author": "sunyongjian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunyongjian/html-webpack-chunk-prefix-plugin/issues"
+  },
+  "homepage": "https://github.com/sunyongjian/html-webpack-chunk-prefix-plugin#readme"
+}

@@ -3,6 +3,9 @@
 
 
 ## Useage
+```
+npm install html-webpack-chunk-prefix-plugin --save-dev
+```
 ```js
 // webpack.config.js
 const HtmlWebpackChunkPrefixPlugin = require('html-webpack-chunk-prefix-plugin');
